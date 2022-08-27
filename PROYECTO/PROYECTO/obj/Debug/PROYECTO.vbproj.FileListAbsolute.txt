@@ -1,0 +1,232 @@
+E:\Luis\UH\2022\2 Cuatrimentre\Progra IV\PROYECTO_LUIS\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe.config
+E:\Luis\UH\2022\2 Cuatrimentre\Progra IV\PROYECTO_LUIS\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe
+E:\Luis\UH\2022\2 Cuatrimentre\Progra IV\PROYECTO_LUIS\PROYECTO\PROYECTO\bin\Debug\PROYECTO.pdb
+E:\Luis\UH\2022\2 Cuatrimentre\Progra IV\PROYECTO_LUIS\PROYECTO\PROYECTO\bin\Debug\PROYECTO.xml
+E:\Luis\UH\2022\2 Cuatrimentre\Progra IV\PROYECTO_LUIS\PROYECTO\PROYECTO\bin\Debug\Guna.UI2.dll
+E:\Luis\UH\2022\2 Cuatrimentre\Progra IV\PROYECTO_LUIS\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.AssemblyReference.cache
+E:\Luis\UH\2022\2 Cuatrimentre\Progra IV\PROYECTO_LUIS\PROYECTO\PROYECTO\obj\Debug\PROYECTO.USUARIOS.resources
+E:\Luis\UH\2022\2 Cuatrimentre\Progra IV\PROYECTO_LUIS\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Resources.resources
+E:\Luis\UH\2022\2 Cuatrimentre\Progra IV\PROYECTO_LUIS\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.GenerateResource.cache
+E:\Luis\UH\2022\2 Cuatrimentre\Progra IV\PROYECTO_LUIS\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.CoreCompileInputs.cache
+E:\Luis\UH\2022\2 Cuatrimentre\Progra IV\PROYECTO_LUIS\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.CopyComplete
+E:\Luis\UH\2022\2 Cuatrimentre\Progra IV\PROYECTO_LUIS\PROYECTO\PROYECTO\obj\Debug\PROYECTO.exe
+E:\Luis\UH\2022\2 Cuatrimentre\Progra IV\PROYECTO_LUIS\PROYECTO\PROYECTO\obj\Debug\PROYECTO.xml
+E:\Luis\UH\2022\2 Cuatrimentre\Progra IV\PROYECTO_LUIS\PROYECTO\PROYECTO\obj\Debug\PROYECTO.pdb
+E:\Luis\UH\2022\2 Cuatrimentre\Progra IV\PROYECTO_LUIS\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_Padre.resources
+E:\Luis\UH\2022\2 Cuatrimentre\Progra IV\PROYECTO_LUIS\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_AGREGAR_PROVEEDORES.resources
+E:\Luis\UH\2022\2 Cuatrimentre\Progra IV\PROYECTO_LUIS\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_FACTURA_CLIENTES.resources
+E:\Luis\UH\2022\2 Cuatrimentre\Progra IV\PROYECTO_LUIS\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_FACTURA_PROVEDORES.resources
+E:\Luis\UH\2022\2 Cuatrimentre\Progra IV\PROYECTO_LUIS\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_HABITACIONES.resources
+E:\Luis\UH\2022\2 Cuatrimentre\Progra IV\PROYECTO_LUIS\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_MANTENIMIENTO_PROVEEDORES.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe.config
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\PROYECTO\PROYECTO\bin\Debug\PROYECTO.pdb
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\PROYECTO\PROYECTO\bin\Debug\PROYECTO.xml
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\PROYECTO\PROYECTO\bin\Debug\Guna.UI2.dll
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.AssemblyReference.cache
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_AGREGAR_PROVEEDORES.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_FACTURA_CLIENTES.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_FACTURA_PROVEDORES.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_HABITACIONES.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_MANTENIMIENTO_PROVEEDORES.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\PROYECTO\PROYECTO\obj\Debug\PROYECTO.USUARIOS.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_Padre.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Resources.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.GenerateResource.cache
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.CoreCompileInputs.cache
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.CopyComplete
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\PROYECTO\PROYECTO\obj\Debug\PROYECTO.exe
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\PROYECTO\PROYECTO\obj\Debug\PROYECTO.xml
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\PROYECTO\PROYECTO\obj\Debug\PROYECTO.pdb
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Hacer Factura Clientes antes del Lunes\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe.config
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Hacer Factura Clientes antes del Lunes\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Hacer Factura Clientes antes del Lunes\PROYECTO\PROYECTO\bin\Debug\PROYECTO.pdb
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Hacer Factura Clientes antes del Lunes\PROYECTO\PROYECTO\bin\Debug\PROYECTO.xml
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Hacer Factura Clientes antes del Lunes\PROYECTO\PROYECTO\bin\Debug\Guna.UI2.dll
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Hacer Factura Clientes antes del Lunes\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.AssemblyReference.cache
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Hacer Factura Clientes antes del Lunes\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_AGREGAR_PROVEEDORES.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Hacer Factura Clientes antes del Lunes\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_FACTURA_CLIENTES.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Hacer Factura Clientes antes del Lunes\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_FACTURA_PROVEDORES.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Hacer Factura Clientes antes del Lunes\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_HABITACIONES.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Hacer Factura Clientes antes del Lunes\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_MANTENIMIENTO_PROVEEDORES.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Hacer Factura Clientes antes del Lunes\PROYECTO\PROYECTO\obj\Debug\PROYECTO.USUARIOS.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Hacer Factura Clientes antes del Lunes\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_Padre.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Hacer Factura Clientes antes del Lunes\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Resources.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Hacer Factura Clientes antes del Lunes\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.GenerateResource.cache
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Hacer Factura Clientes antes del Lunes\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.CoreCompileInputs.cache
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Hacer Factura Clientes antes del Lunes\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.CopyComplete
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Hacer Factura Clientes antes del Lunes\PROYECTO\PROYECTO\obj\Debug\PROYECTO.exe
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Hacer Factura Clientes antes del Lunes\PROYECTO\PROYECTO\obj\Debug\PROYECTO.xml
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Hacer Factura Clientes antes del Lunes\PROYECTO\PROYECTO\obj\Debug\PROYECTO.pdb
+D:\asasa\stefffff final\Factura_Cliente Agrega, Elimina y Actualiza Datos\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe.config
+D:\asasa\stefffff final\Factura_Cliente Agrega, Elimina y Actualiza Datos\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe
+D:\asasa\stefffff final\Factura_Cliente Agrega, Elimina y Actualiza Datos\PROYECTO\PROYECTO\bin\Debug\PROYECTO.pdb
+D:\asasa\stefffff final\Factura_Cliente Agrega, Elimina y Actualiza Datos\PROYECTO\PROYECTO\bin\Debug\PROYECTO.xml
+D:\asasa\stefffff final\Factura_Cliente Agrega, Elimina y Actualiza Datos\PROYECTO\PROYECTO\bin\Debug\Guna.UI2.dll
+D:\asasa\stefffff final\Factura_Cliente Agrega, Elimina y Actualiza Datos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.AssemblyReference.cache
+D:\asasa\stefffff final\Factura_Cliente Agrega, Elimina y Actualiza Datos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_AGREGAR_PROVEEDORES.resources
+D:\asasa\stefffff final\Factura_Cliente Agrega, Elimina y Actualiza Datos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_FACTURA_CLIENTES.resources
+D:\asasa\stefffff final\Factura_Cliente Agrega, Elimina y Actualiza Datos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_FACTURA_PROVEDORES.resources
+D:\asasa\stefffff final\Factura_Cliente Agrega, Elimina y Actualiza Datos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_HABITACIONES.resources
+D:\asasa\stefffff final\Factura_Cliente Agrega, Elimina y Actualiza Datos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_MANTENIMIENTO_PROVEEDORES.resources
+D:\asasa\stefffff final\Factura_Cliente Agrega, Elimina y Actualiza Datos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.USUARIOS.resources
+D:\asasa\stefffff final\Factura_Cliente Agrega, Elimina y Actualiza Datos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_Padre.resources
+D:\asasa\stefffff final\Factura_Cliente Agrega, Elimina y Actualiza Datos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Resources.resources
+D:\asasa\stefffff final\Factura_Cliente Agrega, Elimina y Actualiza Datos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.GenerateResource.cache
+D:\asasa\stefffff final\Factura_Cliente Agrega, Elimina y Actualiza Datos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.CoreCompileInputs.cache
+D:\asasa\stefffff final\Factura_Cliente Agrega, Elimina y Actualiza Datos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.CopyComplete
+D:\asasa\stefffff final\Factura_Cliente Agrega, Elimina y Actualiza Datos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.exe
+D:\asasa\stefffff final\Factura_Cliente Agrega, Elimina y Actualiza Datos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.xml
+D:\asasa\stefffff final\Factura_Cliente Agrega, Elimina y Actualiza Datos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.pdb
+D:\asasa\stefffff final\Factura_Cliente Agrega, Elimina y Actualiza Datos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_RESERVACIONES.resources
+C:\Users\50686\OneDrive\Escritorio\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe.config
+C:\Users\50686\OneDrive\Escritorio\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe
+C:\Users\50686\OneDrive\Escritorio\PROYECTO\PROYECTO\bin\Debug\PROYECTO.pdb
+C:\Users\50686\OneDrive\Escritorio\PROYECTO\PROYECTO\bin\Debug\PROYECTO.xml
+C:\Users\50686\OneDrive\Escritorio\PROYECTO\PROYECTO\bin\Debug\Guna.UI2.dll
+C:\Users\50686\OneDrive\Escritorio\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.AssemblyReference.cache
+C:\Users\50686\OneDrive\Escritorio\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_AGREGAR_PROVEEDORES.resources
+C:\Users\50686\OneDrive\Escritorio\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_FACTURA_CLIENTES.resources
+C:\Users\50686\OneDrive\Escritorio\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_FACTURA_PROVEDORES.resources
+C:\Users\50686\OneDrive\Escritorio\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_HABITACIONES.resources
+C:\Users\50686\OneDrive\Escritorio\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_MANTENIMIENTO_PROVEEDORES.resources
+C:\Users\50686\OneDrive\Escritorio\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_RESERVACIONES.resources
+C:\Users\50686\OneDrive\Escritorio\PROYECTO\PROYECTO\obj\Debug\PROYECTO.USUARIOS.resources
+C:\Users\50686\OneDrive\Escritorio\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_Padre.resources
+C:\Users\50686\OneDrive\Escritorio\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Resources.resources
+C:\Users\50686\OneDrive\Escritorio\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.GenerateResource.cache
+C:\Users\50686\OneDrive\Escritorio\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.CoreCompileInputs.cache
+C:\Users\50686\OneDrive\Escritorio\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.CopyComplete
+C:\Users\50686\OneDrive\Escritorio\PROYECTO\PROYECTO\obj\Debug\PROYECTO.exe
+C:\Users\50686\OneDrive\Escritorio\PROYECTO\PROYECTO\obj\Debug\PROYECTO.xml
+C:\Users\50686\OneDrive\Escritorio\PROYECTO\PROYECTO\obj\Debug\PROYECTO.pdb
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v1\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe.config
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v1\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v1\PROYECTO\PROYECTO\bin\Debug\PROYECTO.pdb
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v1\PROYECTO\PROYECTO\bin\Debug\PROYECTO.xml
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v1\PROYECTO\PROYECTO\bin\Debug\Guna.UI2.dll
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v1\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.AssemblyReference.cache
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v1\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_AGREGAR_PROVEEDORES.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v1\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_FACTURA_CLIENTES.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v1\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_FACTURA_PROVEDORES.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v1\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_HABITACIONES.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v1\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_MANTENIMIENTO_PROVEEDORES.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v1\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_RESERVACIONES.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v1\PROYECTO\PROYECTO\obj\Debug\PROYECTO.USUARIOS.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v1\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_Padre.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v1\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Resources.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v1\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.GenerateResource.cache
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v1\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.CoreCompileInputs.cache
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v1\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.CopyComplete
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v1\PROYECTO\PROYECTO\obj\Debug\PROYECTO.exe
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v1\PROYECTO\PROYECTO\obj\Debug\PROYECTO.xml
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v1\PROYECTO\PROYECTO\obj\Debug\PROYECTO.pdb
+C:\Users\granp\Desktop\Proyecto_Final_v2\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe.config
+C:\Users\granp\Desktop\Proyecto_Final_v2\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe
+C:\Users\granp\Desktop\Proyecto_Final_v2\PROYECTO\PROYECTO\bin\Debug\PROYECTO.pdb
+C:\Users\granp\Desktop\Proyecto_Final_v2\PROYECTO\PROYECTO\bin\Debug\PROYECTO.xml
+C:\Users\granp\Desktop\Proyecto_Final_v2\PROYECTO\PROYECTO\bin\Debug\Guna.UI2.dll
+C:\Users\granp\Desktop\Proyecto_Final_v2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.AssemblyReference.cache
+C:\Users\granp\Desktop\Proyecto_Final_v2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_AGREGAR_PROVEEDORES.resources
+C:\Users\granp\Desktop\Proyecto_Final_v2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_FACTURA_CLIENTES.resources
+C:\Users\granp\Desktop\Proyecto_Final_v2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_FACTURA_PROVEDORES.resources
+C:\Users\granp\Desktop\Proyecto_Final_v2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_HABITACIONES.resources
+C:\Users\granp\Desktop\Proyecto_Final_v2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_MANTENIMIENTO_PROVEEDORES.resources
+C:\Users\granp\Desktop\Proyecto_Final_v2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_RESERVACIONES.resources
+C:\Users\granp\Desktop\Proyecto_Final_v2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.USUARIOS.resources
+C:\Users\granp\Desktop\Proyecto_Final_v2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_Padre.resources
+C:\Users\granp\Desktop\Proyecto_Final_v2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Resources.resources
+C:\Users\granp\Desktop\Proyecto_Final_v2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.GenerateResource.cache
+C:\Users\granp\Desktop\Proyecto_Final_v2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.CoreCompileInputs.cache
+C:\Users\granp\Desktop\Proyecto_Final_v2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.CopyComplete
+C:\Users\granp\Desktop\Proyecto_Final_v2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.exe
+C:\Users\granp\Desktop\Proyecto_Final_v2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.xml
+C:\Users\granp\Desktop\Proyecto_Final_v2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.pdb
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v2\Proyecto_Final_v2\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe.config
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v2\Proyecto_Final_v2\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v2\Proyecto_Final_v2\PROYECTO\PROYECTO\bin\Debug\PROYECTO.pdb
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v2\Proyecto_Final_v2\PROYECTO\PROYECTO\bin\Debug\PROYECTO.xml
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v2\Proyecto_Final_v2\PROYECTO\PROYECTO\bin\Debug\Guna.UI2.dll
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v2\Proyecto_Final_v2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.AssemblyReference.cache
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v2\Proyecto_Final_v2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_AGREGAR_PROVEEDORES.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v2\Proyecto_Final_v2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_FACTURA_CLIENTES.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v2\Proyecto_Final_v2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_FACTURA_PROVEDORES.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v2\Proyecto_Final_v2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_HABITACIONES.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v2\Proyecto_Final_v2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_MANTENIMIENTO_PROVEEDORES.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v2\Proyecto_Final_v2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_RESERVACIONES.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v2\Proyecto_Final_v2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.USUARIOS.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v2\Proyecto_Final_v2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_Padre.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v2\Proyecto_Final_v2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Resources.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v2\Proyecto_Final_v2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.GenerateResource.cache
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v2\Proyecto_Final_v2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.CoreCompileInputs.cache
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v2\Proyecto_Final_v2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.CopyComplete
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v2\Proyecto_Final_v2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.exe
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v2\Proyecto_Final_v2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.xml
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v2\Proyecto_Final_v2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.pdb
+C:\Users\PC\Desktop\Proyecto_Final_v3\Proyecto_Final_v3\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe.config
+C:\Users\PC\Desktop\Proyecto_Final_v3\Proyecto_Final_v3\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe
+C:\Users\PC\Desktop\Proyecto_Final_v3\Proyecto_Final_v3\PROYECTO\PROYECTO\bin\Debug\PROYECTO.pdb
+C:\Users\PC\Desktop\Proyecto_Final_v3\Proyecto_Final_v3\PROYECTO\PROYECTO\bin\Debug\PROYECTO.xml
+C:\Users\PC\Desktop\Proyecto_Final_v3\Proyecto_Final_v3\PROYECTO\PROYECTO\bin\Debug\Guna.UI2.dll
+C:\Users\PC\Desktop\Proyecto_Final_v3\Proyecto_Final_v3\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Proyecto_Final_v3\Proyecto_Final_v3\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_AGREGAR_PROVEEDORES.resources
+C:\Users\PC\Desktop\Proyecto_Final_v3\Proyecto_Final_v3\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_FACTURA_CLIENTES.resources
+C:\Users\PC\Desktop\Proyecto_Final_v3\Proyecto_Final_v3\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_FACTURA_PROVEDORES.resources
+C:\Users\PC\Desktop\Proyecto_Final_v3\Proyecto_Final_v3\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_HABITACIONES.resources
+C:\Users\PC\Desktop\Proyecto_Final_v3\Proyecto_Final_v3\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_MANTENIMIENTO_PROVEEDORES.resources
+C:\Users\PC\Desktop\Proyecto_Final_v3\Proyecto_Final_v3\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_RESERVACIONES.resources
+C:\Users\PC\Desktop\Proyecto_Final_v3\Proyecto_Final_v3\PROYECTO\PROYECTO\obj\Debug\PROYECTO.USUARIOS.resources
+C:\Users\PC\Desktop\Proyecto_Final_v3\Proyecto_Final_v3\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_Padre.resources
+C:\Users\PC\Desktop\Proyecto_Final_v3\Proyecto_Final_v3\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Resources.resources
+C:\Users\PC\Desktop\Proyecto_Final_v3\Proyecto_Final_v3\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.GenerateResource.cache
+C:\Users\PC\Desktop\Proyecto_Final_v3\Proyecto_Final_v3\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Proyecto_Final_v3\Proyecto_Final_v3\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.CopyComplete
+C:\Users\PC\Desktop\Proyecto_Final_v3\Proyecto_Final_v3\PROYECTO\PROYECTO\obj\Debug\PROYECTO.exe
+C:\Users\PC\Desktop\Proyecto_Final_v3\Proyecto_Final_v3\PROYECTO\PROYECTO\obj\Debug\PROYECTO.xml
+C:\Users\PC\Desktop\Proyecto_Final_v3\Proyecto_Final_v3\PROYECTO\PROYECTO\obj\Debug\PROYECTO.pdb
+C:\Users\PC\Desktop\Proyecto_Final_v3\Proyecto_Final_v3\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_CORREO.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v4\Proyecto_Final_v4\Proyecto_Final_v4\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe.config
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v4\Proyecto_Final_v4\Proyecto_Final_v4\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v4\Proyecto_Final_v4\Proyecto_Final_v4\PROYECTO\PROYECTO\bin\Debug\PROYECTO.pdb
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v4\Proyecto_Final_v4\Proyecto_Final_v4\PROYECTO\PROYECTO\bin\Debug\PROYECTO.xml
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v4\Proyecto_Final_v4\Proyecto_Final_v4\PROYECTO\PROYECTO\bin\Debug\Guna.UI2.dll
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v4\Proyecto_Final_v4\Proyecto_Final_v4\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.AssemblyReference.cache
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v4\Proyecto_Final_v4\Proyecto_Final_v4\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_CORREO.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v4\Proyecto_Final_v4\Proyecto_Final_v4\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_AGREGAR_PROVEEDORES.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v4\Proyecto_Final_v4\Proyecto_Final_v4\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_FACTURA_CLIENTES.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v4\Proyecto_Final_v4\Proyecto_Final_v4\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_FACTURA_PROVEDORES.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v4\Proyecto_Final_v4\Proyecto_Final_v4\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_HABITACIONES.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v4\Proyecto_Final_v4\Proyecto_Final_v4\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_MANTENIMIENTO_PROVEEDORES.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v4\Proyecto_Final_v4\Proyecto_Final_v4\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_RESERVACIONES.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v4\Proyecto_Final_v4\Proyecto_Final_v4\PROYECTO\PROYECTO\obj\Debug\PROYECTO.USUARIOS.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v4\Proyecto_Final_v4\Proyecto_Final_v4\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_Padre.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v4\Proyecto_Final_v4\Proyecto_Final_v4\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Resources.resources
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v4\Proyecto_Final_v4\Proyecto_Final_v4\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.GenerateResource.cache
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v4\Proyecto_Final_v4\Proyecto_Final_v4\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.CoreCompileInputs.cache
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v4\Proyecto_Final_v4\Proyecto_Final_v4\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.CopyComplete
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v4\Proyecto_Final_v4\Proyecto_Final_v4\PROYECTO\PROYECTO\obj\Debug\PROYECTO.exe
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v4\Proyecto_Final_v4\Proyecto_Final_v4\PROYECTO\PROYECTO\obj\Debug\PROYECTO.xml
+C:\Users\Oswald\Desktop\Stephen\Documentos Programación IV\Semana 15 v4\Proyecto_Final_v4\Proyecto_Final_v4\PROYECTO\PROYECTO\obj\Debug\PROYECTO.pdb
+C:\Users\JoanPC\Downloads\Proyecto_Final_v5\Proyecto_Final_v5\Proyecto_Final_v5\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe.config
+C:\Users\JoanPC\Downloads\Proyecto_Final_v5\Proyecto_Final_v5\Proyecto_Final_v5\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe
+C:\Users\JoanPC\Downloads\Proyecto_Final_v5\Proyecto_Final_v5\Proyecto_Final_v5\PROYECTO\PROYECTO\bin\Debug\PROYECTO.pdb
+C:\Users\JoanPC\Downloads\Proyecto_Final_v5\Proyecto_Final_v5\Proyecto_Final_v5\PROYECTO\PROYECTO\bin\Debug\PROYECTO.xml
+C:\Users\JoanPC\Downloads\Proyecto_Final_v5\Proyecto_Final_v5\Proyecto_Final_v5\PROYECTO\PROYECTO\bin\Debug\Guna.UI2.dll
+C:\Users\JoanPC\Downloads\Proyecto_Final_v5\Proyecto_Final_v5\Proyecto_Final_v5\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.AssemblyReference.cache
+C:\Users\JoanPC\Downloads\Proyecto_Final_v5\Proyecto_Final_v5\Proyecto_Final_v5\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.SuggestedBindingRedirects.cache
+C:\Users\JoanPC\Downloads\Proyecto_Final_v5\Proyecto_Final_v5\Proyecto_Final_v5\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_CORREO.resources
+C:\Users\JoanPC\Downloads\Proyecto_Final_v5\Proyecto_Final_v5\Proyecto_Final_v5\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_AGREGAR_PROVEEDORES.resources
+C:\Users\JoanPC\Downloads\Proyecto_Final_v5\Proyecto_Final_v5\Proyecto_Final_v5\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_FACTURA_CLIENTES.resources
+C:\Users\JoanPC\Downloads\Proyecto_Final_v5\Proyecto_Final_v5\Proyecto_Final_v5\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_FACTURA_PROVEDORES.resources
+C:\Users\JoanPC\Downloads\Proyecto_Final_v5\Proyecto_Final_v5\Proyecto_Final_v5\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_HABITACIONES.resources
+C:\Users\JoanPC\Downloads\Proyecto_Final_v5\Proyecto_Final_v5\Proyecto_Final_v5\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_MANTENIMIENTO_PROVEEDORES.resources
+C:\Users\JoanPC\Downloads\Proyecto_Final_v5\Proyecto_Final_v5\Proyecto_Final_v5\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_RESERVACIONES.resources
+C:\Users\JoanPC\Downloads\Proyecto_Final_v5\Proyecto_Final_v5\Proyecto_Final_v5\PROYECTO\PROYECTO\obj\Debug\PROYECTO.USUARIOS.resources
+C:\Users\JoanPC\Downloads\Proyecto_Final_v5\Proyecto_Final_v5\Proyecto_Final_v5\PROYECTO\PROYECTO\obj\Debug\PROYECTO.FRM_Padre.resources
+C:\Users\JoanPC\Downloads\Proyecto_Final_v5\Proyecto_Final_v5\Proyecto_Final_v5\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Resources.resources
+C:\Users\JoanPC\Downloads\Proyecto_Final_v5\Proyecto_Final_v5\Proyecto_Final_v5\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.GenerateResource.cache
+C:\Users\JoanPC\Downloads\Proyecto_Final_v5\Proyecto_Final_v5\Proyecto_Final_v5\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.CoreCompileInputs.cache
+C:\Users\JoanPC\Downloads\Proyecto_Final_v5\Proyecto_Final_v5\Proyecto_Final_v5\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.CopyComplete
+C:\Users\JoanPC\Downloads\Proyecto_Final_v5\Proyecto_Final_v5\Proyecto_Final_v5\PROYECTO\PROYECTO\obj\Debug\PROYECTO.exe
+C:\Users\JoanPC\Downloads\Proyecto_Final_v5\Proyecto_Final_v5\Proyecto_Final_v5\PROYECTO\PROYECTO\obj\Debug\PROYECTO.xml
+C:\Users\JoanPC\Downloads\Proyecto_Final_v5\Proyecto_Final_v5\Proyecto_Final_v5\PROYECTO\PROYECTO\obj\Debug\PROYECTO.pdb
